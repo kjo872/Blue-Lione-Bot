@@ -37,7 +37,7 @@ global.APIKeys = {
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
+global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
@@ -55,22 +55,22 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['97691538545'] //ur owner number
-global.ownername = "Aalan" //ur owner name
-global.ytname = "YT: 𝐂𝐈𝐁𝐄𝐑" //ur yt chanel name
+global.ownername = "Aalan🙂" //ur owner name
+global.ytname = "YT: AALAN🙂" //ur yt chanel name
 global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
 global.location = "Mongolia,Asia" //ur location
 
 //bot bomdy
 global.owner = ['97691538545'] //ur number 
 global.ownertag = '97691538545' //ur tag number
-global.botname = '📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶' //ur bot name
+global.botname = '🙂 Aalan Bot 🙂' //ur bot name
 global.linkz = "https://youtu.be/3J9-8U8St3U" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/3J9-8U8St3U" //ur website to be displayed
 global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶" //ur sticker watermark packname
-global.author = "📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶" //ur sticker watermark author
+global.packname = "🙂 Aalan Bot 🙂" //ur sticker watermark packname
+global.author = "🙂 Aalan Bot 🙂" //ur sticker watermark author
 global.menumoji ="💖"
 global.menuimg = "https://i.ibb.co/0mDLtyr/f2337149532299-58b7611d91faf.jpg" //ur alive img link [https://i.ibb.co]
 global.alive = "https://raw.githubusercontent.com/Nipuna-apps/Blue-Lion-Bot-V2/main/LioneMedia/video/Lione-bot.mp4" //ur alive video or image link [github.com]
@@ -104,19 +104,19 @@ global.ntilink = []
 //omther
 global.sessionName = 'session'
 global.antitags = true
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','🐦','🐤','🗿'\'(')'\'🙂']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
+    success: 'Done Dude 😃✓',
+    admin: 'This Feature Is Only For Admin 🙂!',
+    botAdmin: 'Make me Admin First Dude!',
+    owner: 'This Feature Is Only For Owner idiot😂!',
+    group: 'Feature Used Only For Groups Dude!',
+    private: 'Features Used Only For Private Chat Dude!',
+    bot: 'This Feature Is Only For Bot Dude',
     wait: 'In process...',
-    linkm: 'Where is the link?',
-    error: 'Error!!',
+    linkm: 'Give me the link dude 🙂',
+    error: 'Shit Damm error!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
